@@ -1,0 +1,11 @@
+Package: com.obumbravit.dxy
+Name: Dxy
+Depends: mobilesubstrate, preferenceloader, com.obumbravit.avgct
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Minimalist Music in Your Status Bar.
+Maintainer: 0ver$hadowed
+Author: 0ver$hadowed
+Section: Tweaks
+Icon: https://raw.githubusercontent.com/Obumbravit/Icons/master/Dxy.png
+Depiction: https://obumbravit.github.io/0SRepo/depictions/?p=com.obumbravit.dxy
